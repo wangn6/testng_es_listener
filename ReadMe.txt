@@ -1,0 +1,1 @@
+This is to store the test result of TestNG into ElasticSearch for further analysis and tracking.

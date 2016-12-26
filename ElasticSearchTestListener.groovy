@@ -1,4 +1,4 @@
-package core
+package org.wangn6.es_testng_listener
 
 import groovy.json.JsonOutput
 import org.testng.ITestContext
@@ -7,7 +7,7 @@ import org.testng.ITestResult
 import java.text.DateFormat
 import java.text.SimpleDateFormat
 
-import libs.utilities.ElasticSearchHelper
+import org.wangn6.utilities.es.ElasticSearchHelper
 
 /**
  * Created by nwang on 29/11/2016.
